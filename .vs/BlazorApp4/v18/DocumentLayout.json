@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\GD\\Blazor\\proj\\BlazorApp4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B6D717A-A981-B461-4CDC-0995C7BE35FB}|BlazorApp4.csproj|e:\\gd\\blazor\\proj\\blazorapp4\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B6D717A-A981-B461-4CDC-0995C7BE35FB}|BlazorApp4.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B6D717A-A981-B461-4CDC-0995C7BE35FB}|BlazorApp4.csproj|e:\\gd\\blazor\\proj\\blazorapp4\\blazorapp4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9B6D717A-A981-B461-4CDC-0995C7BE35FB}|BlazorApp4.csproj|solutionrelative:blazorapp4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorApp4\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorApp4\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-14T10:34:21.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BlazorApp4.csproj",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\BlazorApp4\\BlazorApp4.csproj",
               "RelativeDocumentMoniker": "BlazorApp4.csproj",
