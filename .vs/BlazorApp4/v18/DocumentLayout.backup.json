@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "wwwroot\\index.html",
               "ToolTip": "E:\\GD\\Blazor\\proj\\BlazorApp4\\wwwroot\\index.html",
               "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-12-14T10:34:21.942Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "BlazorApp4.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-14T09:51:14.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T09:51:14.156Z"
             }
           ]
         }
